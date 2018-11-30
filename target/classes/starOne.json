@@ -1,0 +1,1179 @@
+{
+  "data": {
+    "totalProperties": "10",
+    "maximalOffset": "130",
+    "properties": [
+      {
+        "propertyId": "3000010002690",
+        "propertySummary": {
+          "name": "Citihub Hotel @ Gejayan",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Affandi No.8 B (d/h Gejayan)"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Affandi No.8 B (d/h Gejayan)"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "0.0",
+          "reviewScore": "8.13",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.7595477649972056",
+            "lon": "110.3948555509262"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccC6zj+1dv7J+hOrRkzSPj+bfNJZhVuyL7olSQHBbgZSobC7axohKIeutU+Du4wqz8OF+99IS5XvCTQc8/NxGVZjDB/t5BX5qcNpxEmevjxUlxjNthcmHTg7pqSwxLpj0/w=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccC6zj+1dv7J+hOrRkzSPj+bfNJZhVuyL7olSQHBbgZSobC7axohKIeutU+Du4wqz8OF+99IS5XvCTQc8/NxGVZj00NJdyyfraaAgZ3jiwG/xwOonl58Fy1rEYn7dTKtYkQ=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccC6zj+1dv7J+hOrRkzSPj+bfNJZhVuyL7olSQHBbgZSobC7axohKIeutU+Du4wqz8OF+99IS5XvCTQc8/NxGVZgRTo5EXv00nmoAUBcrufQdJGj/A4UBTzD/z7w69UkprA=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "390000",
+            "averageRate": "241736",
+            "nightlyRateTotal": "483472",
+            "surchargeTotal": "101529",
+            "total": "585000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "101529"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "390000",
+                "promo": true,
+                "nightRate": "241736"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "390000",
+                "promo": true,
+                "nightRate": "241736"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "390000",
+            "averageRate": "241736",
+            "nightlyRateTotal": "483472",
+            "surchargeTotal": "101529",
+            "total": "585000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "101529"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "390000",
+                "promo": true,
+                "nightRate": "241736"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "390000",
+                "promo": true,
+                "nightRate": "241736"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "PZUUsyREKLhRLhEp7gvXVr2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010027342",
+        "propertySummary": {
+          "name": "Oasis Studio Hotel Satu Yogyakarta",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Gejayan Gang Kamboja No 10 (Jalan Affandi)"
+            ],
+            "city": "Yogyakarta (Jogja)",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Gejayan Gang Kamboja No 10 (Jalan Affandi)"
+            ],
+            "city": "Yogyakarta (Jogja)",
+            "countryName": "Indonesia"
+          },
+          "starRating": "0.0",
+          "reviewScore": "8.59",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.767831200000001",
+            "lon": "110.3906455"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdzVo20J0q8cN6ytcedEGVdt6msYVlu6ZO0vc/wZKnJVGKD0N1XO1c51l9tBa4CB5ja+BgBwfinpEvBsZdGYlUs4RAQkEpiWGrpZhaxe7dui13+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdzVo20J0q8cN6ytcedEGVdt6msYVlu6ZO0vc/wZKnJVGKD0N1XO1c51l9tBa4CB5ja+BgBwfinpEvBsZdGYlUs4RAQkEpiWGrpZhaxe7dui121f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdzVo20J0q8cN6ytcedEGVdt6msYVlu6ZO0vc/wZKnJVGKD0N1XO1c51l9tBa4CB5ja+BgBwfinpEvBsZdGYlUs4RAQkEpiWGrpZhaxe7dui13BqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "251240",
+            "averageRate": "251240",
+            "nightlyRateTotal": "502480",
+            "surchargeTotal": "105521",
+            "total": "608000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "105521"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "251240",
+                "promo": false,
+                "nightRate": "251240"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "251240",
+                "promo": false,
+                "nightRate": "251240"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "251240",
+            "averageRate": "251240",
+            "nightlyRateTotal": "502480",
+            "surchargeTotal": "105521",
+            "total": "608000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "105521"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "251240",
+                "promo": false,
+                "nightRate": "251240"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "251240",
+                "promo": false,
+                "nightRate": "251240"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "cH91SqZEvccgSleKqcmlKr2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010005175",
+        "propertySummary": {
+          "name": "Ekkon Hotel",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Hos. Cokroaminoto, Cokro Square Kav. O"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Hos. Cokroaminoto, Cokro Square Kav. O"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "0.0",
+          "reviewScore": "8.41",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.789827",
+            "lon": "110.354068"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKarvxyoOEEQeUEfHajcEPvJ6aDdEVmSuMUP43Rigo6rbmlrR0jOxG5OWsqDvV9ZBkxupSxaxRRinnuInhszY/H+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKarvxyoOEEQeUEfHajcEPvJ6aDdEVmSuMUP43Rigo6rbmlrR0jOxG5OWsqDvV9ZBkxupSxaxRRinnuInhszY/G1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKarvxyoOEEQeUEfHajcEPvJ6aDdEVmSuMUP43Rigo6rbmlrR0jOxG5OWsqDvV9ZBkxupSxaxRRinnuInhszY/HBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "343333",
+            "averageRate": "212810",
+            "nightlyRateTotal": "425620",
+            "surchargeTotal": "89381",
+            "total": "515000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "89381"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "343333",
+                "promo": true,
+                "nightRate": "212810"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "343333",
+                "promo": true,
+                "nightRate": "212810"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "343333",
+            "averageRate": "212810",
+            "nightlyRateTotal": "425620",
+            "surchargeTotal": "89381",
+            "total": "515000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "89381"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "343333",
+                "promo": true,
+                "nightRate": "212810"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "343333",
+                "promo": true,
+                "nightRate": "212810"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "vslHOedoeaXDATocuh6mar2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010022203",
+        "propertySummary": {
+          "name": "Hotel Amarta",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Wates Km 2,5 Kadipiro"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Wates Km 2,5 Kadipiro"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "0.0",
+          "reviewScore": "6.91",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.800554",
+            "lon": "110.34104"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccM2clHIYzaK5I58GsaHQgq00cDlWPEgRmNMeeQuYCbDqCgEEgxcs9l3hkWFlGX5I/YMnwsmqAvjVfcbACUBKLwf+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccM2clHIYzaK5I58GsaHQgq00cDlWPEgRmNMeeQuYCbDqCgEEgxcs9l3hkWFlGX5I/YMnwsmqAvjVfcbACUBKLwe1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccM2clHIYzaK5I58GsaHQgq00cDlWPEgRmNMeeQuYCbDqCgEEgxcs9l3hkWFlGX5I/YMnwsmqAvjVfcbACUBKLwfBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "171818",
+            "averageRate": "171818",
+            "nightlyRateTotal": "343636",
+            "surchargeTotal": "72164",
+            "total": "415800",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "72164"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "171818",
+                "promo": false,
+                "nightRate": "171818"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "171818",
+                "promo": false,
+                "nightRate": "171818"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "171818",
+            "averageRate": "171818",
+            "nightlyRateTotal": "343636",
+            "surchargeTotal": "72164",
+            "total": "415800",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "72164"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "171818",
+                "promo": false,
+                "nightRate": "171818"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "171818",
+                "promo": false,
+                "nightRate": "171818"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "opJCmMMMSMCzgUllp7F9ar2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000020005856",
+        "propertySummary": {
+          "name": "The Journey Hotel",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jl. Sorosutan 2E, Umbulharjo"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jl. Sorosutan 2E, Umbulharjo"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "0.0",
+          "reviewScore": "8.8",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.816807000000002",
+            "lon": "110.37818100000004"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdzVo20J0q8cN6ytcedEGVdt5uEY59pKM6SLAieWEdvjfWL7AhHJOqxOOGcgFDhVDSBUNhPhTnrT7BmFumMQRZHVf245DjvYXI7QMn6itrjbqrDB/t5BX5qcNpxEmevjxUlxjNthcmHTg7pqSwxLpj0/w=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdzVo20J0q8cN6ytcedEGVdt5uEY59pKM6SLAieWEdvjfWL7AhHJOqxOOGcgFDhVDSBUNhPhTnrT7BmFumMQRZHVf245DjvYXI7QMn6itrjbqr00NJdyyfraaAgZ3jiwG/xwOonl58Fy1rEYn7dTKtYkQ=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdzVo20J0q8cN6ytcedEGVdt5uEY59pKM6SLAieWEdvjfWL7AhHJOqxOOGcgFDhVDSBUNhPhTnrT7BmFumMQRZHVf245DjvYXI7QMn6itrjbqoRTo5EXv00nmoAUBcrufQdJGj/A4UBTzD/z7w69UkprA=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "440000",
+            "averageRate": "272727",
+            "nightlyRateTotal": "545454",
+            "surchargeTotal": "114546",
+            "total": "660000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "114546"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "440000",
+                "promo": true,
+                "nightRate": "272727"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "440000",
+                "promo": true,
+                "nightRate": "272727"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "440000",
+            "averageRate": "272727",
+            "nightlyRateTotal": "545454",
+            "surchargeTotal": "114546",
+            "total": "660000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "114546"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "440000",
+                "promo": true,
+                "nightRate": "272727"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "440000",
+                "promo": true,
+                "nightRate": "272727"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "SAWOZe4dLUpuAM1P5+v3AL2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010012493",
+        "propertySummary": {
+          "name": "NOVATEL Malioboro Yogyakarta",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Wahid Hasyim No 61 Ngabean"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Wahid Hasyim No 61 Ngabean"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "1.0",
+          "reviewScore": "7.76",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.805248",
+            "lon": "110.356313"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKvfajz+Ah1BIRJWnSoWzZmAjYM2yQasM/POd8JLJoluRsSkYpWYj53kUQXC9qlPaEYsGnwE2ei+DNk59RVbJwd4DFyrwMGQoAulWODXoD++"
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKvfajz+Ah1BIRJWnSoWzZmAjYM2yQasM/POd8JLJolueiL4vSrADYgq6f+6y+nXNFEQ3LgcKx1WR49Ck5qCAdg="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKvfajz+Ah1BIRJWnSoWzZmAjYM2yQasM/POd8JLJolueiL4vSrADYgq6f+6y+nXNHhMcU96Fp50fy/qVrq4mvtWrZZDDjE+K0pUU1Cw6+Q+"
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "257484",
+            "averageRate": "257484",
+            "nightlyRateTotal": "514968",
+            "surchargeTotal": "108143",
+            "total": "623110",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "108143"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "257484",
+                "promo": false,
+                "nightRate": "257484"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "257484",
+                "promo": false,
+                "nightRate": "257484"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "257484",
+            "averageRate": "257484",
+            "nightlyRateTotal": "514968",
+            "surchargeTotal": "108143",
+            "total": "623110",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "108143"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "257484",
+                "promo": false,
+                "nightRate": "257484"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "257484",
+                "promo": false,
+                "nightRate": "257484"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "gZGJCi51cfpSqmX0OT9E6b2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010030813",
+        "propertySummary": {
+          "name": "Airlangga Hotel",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Prawirotaman I No.6 - 8"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Prawirotaman I No.6 - 8"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "1.0",
+          "reviewScore": "8.27",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.818943000000002",
+            "lon": "110.36880500000007"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccFOBBqXszTptp4uOg9fnhR0VvcAjp8AzG8+gf0ieygDzCEMB88U7JsS8/yhcLfP4AkvQ05rWAn7XuUsBZqhPw+1yPpqDff9ue7jaaKf6Swf3yN/mQM4e1rrzGPyTorAu+Q=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccFOBBqXszTptp4uOg9fnhR0VvcAjp8AzG8+gf0ieygDzCEMB88U7JsS8/yhcLfP4AkvQ05rWAn7XuUsBZqhPw+1q9rfmqRmE8WMSOdmNYTAf"
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccFOBBqXszTptp4uOg9fnhR0VvcAjp8AzG8+gf0ieygDzCEMB88U7JsS8/yhcLfP4AkvQ05rWAn7XuUsBZqhPw+2829bjssJPxPWzm3LSl8MrTfPZolhQN1TCoweDpiPUZw=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "351600",
+            "averageRate": "217934",
+            "nightlyRateTotal": "435868",
+            "surchargeTotal": "91533",
+            "total": "527400",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "91533"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "351600",
+                "promo": true,
+                "nightRate": "217934"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "351600",
+                "promo": true,
+                "nightRate": "217934"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "351600",
+            "averageRate": "217934",
+            "nightlyRateTotal": "435868",
+            "surchargeTotal": "91533",
+            "total": "527400",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "91533"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "351600",
+                "promo": true,
+                "nightRate": "217934"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "351600",
+                "promo": true,
+                "nightRate": "217934"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "w2N2pa8I8ddP7WiW6RzUBb2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010004019",
+        "propertySummary": {
+          "name": "Sky Hotel Jogja",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jalan Hayam Wuruk No.51, Lempuyangan"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Hayam Wuruk No.51,Lempuyangan"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "1.0",
+          "reviewScore": "8.42",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.791792",
+            "lon": "110.373592"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKRvDHop+rCAoY92LZNrDmLYL2FYGj+OxUhFv770aBv57aB0yNuyMwqGiXxBxoLPcoBZ003XUiRFan79CoR+6iXDB/t5BX5qcNpxEmevjxUlxjNthcmHTg7pqSwxLpj0/w=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKRvDHop+rCAoY92LZNrDmLYL2FYGj+OxUhFv770aBv57aB0yNuyMwqGiXxBxoLPcoBZ003XUiRFan79CoR+6iX00NJdyyfraaAgZ3jiwG/xwOonl58Fy1rEYn7dTKtYkQ=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccKRvDHop+rCAoY92LZNrDmLYL2FYGj+OxUhFv770aBv57aB0yNuyMwqGiXxBxoLPcoBZ003XUiRFan79CoR+6iURTo5EXv00nmoAUBcrufQdJGj/A4UBTzD/z7w69UkprA=="
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "326667",
+            "averageRate": "202479",
+            "nightlyRateTotal": "404958",
+            "surchargeTotal": "85042",
+            "total": "490000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "85042"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "326667",
+                "promo": true,
+                "nightRate": "202479"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "326667",
+                "promo": true,
+                "nightRate": "202479"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "326667",
+            "averageRate": "202479",
+            "nightlyRateTotal": "404958",
+            "surchargeTotal": "85042",
+            "total": "490000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "85042"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "326667",
+                "promo": true,
+                "nightRate": "202479"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "326667",
+                "promo": true,
+                "nightRate": "202479"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "WXRKHGupTU4IRujv/XlSRb2Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010038451",
+        "propertySummary": {
+          "name": "Hotel Atalie Malioboro by Yuwono",
+          "formerName": "Hotel Atalie",
+          "address": {
+            "lines": [
+              "Jalan Sosrokusuman DN.1/118 Malioboro"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jalan Sosrokusuman DN.1/118 Malioboro"
+            ],
+            "city": "Yogyakarta",
+            "countryName": "Indonesia"
+          },
+          "starRating": "0.0",
+          "reviewScore": "8.56",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.793712100000002",
+            "lon": "110.36680530000001"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccEqjKmC63s+wN7kgOnTzWV58f80i7oWeqfq65BAj+7jvmHnNYqRT4VXHXY/giFl5BkYsGnwE2ei+DNk59RVbJwd4DFyrwMGQoAulWODXoD++"
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccEqjKmC63s+wN7kgOnTzWV58f80i7oWeqfq65BAj+7jv1NP9XPjB3quJmIDg9Y2PmlEQ3LgcKx1WR49Ck5qCAdg="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccEqjKmC63s+wN7kgOnTzWV58f80i7oWeqfq65BAj+7jv1NP9XPjB3quJmIDg9Y2PmnhMcU96Fp50fy/qVrq4mvtWrZZDDjE+K0pUU1Cw6+Q+"
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "474320",
+            "averageRate": "294000",
+            "nightlyRateTotal": "588000",
+            "surchargeTotal": "123480",
+            "total": "711480",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "123480"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "474320",
+                "promo": true,
+                "nightRate": "294000"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "474320",
+                "promo": true,
+                "nightRate": "294000"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "474320",
+            "averageRate": "294000",
+            "nightlyRateTotal": "588000",
+            "surchargeTotal": "123480",
+            "total": "711480",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "123480"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "474320",
+                "promo": true,
+                "nightRate": "294000"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "474320",
+                "promo": true,
+                "nightRate": "294000"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "le9+ApeHrqD87eBbY8RPo72Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      },
+      {
+        "propertyId": "3000010002450",
+        "propertySummary": {
+          "name": "Rumput Hotel Resort & Resto",
+          "formerName": null,
+          "address": {
+            "lines": [
+              "Jl. Cempaka Baru 28, Gempol Condong Catur Sleman"
+            ],
+            "city": "Sleman",
+            "countryName": "Indonesia"
+          },
+          "localAddress": {
+            "lines": [
+              "Jl. Cempaka Baru 28, Gempol Condong Catur Sleman"
+            ],
+            "city": "Sleman",
+            "countryName": "Indonesia"
+          },
+          "starRating": "1.0",
+          "reviewScore": "8.81",
+          "accommodationType": "HOTEL",
+          "geoLocation": {
+            "lat": "-7.751055",
+            "lon": "110.407018"
+          }
+        },
+        "propertyImages": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccGbZ7YoTzEOpsL0nEUzkbUZQ+ov+Kf3Uibk2/zYnyptWWUdva+hLvEHchFnAGFugOkYsGnwE2ei+DNk59RVbJwd4DFyrwMGQoAulWODXoD++"
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccGbZ7YoTzEOpsL0nEUzkbUZQ+ov+Kf3Uibk2/zYnyptWTY4qcvHefc70zaNWgtlJsFEQ3LgcKx1WR49Ck5qCAdg="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://d1nabgopwop1kh.cloudfront.net/v2/hotel-asset/guys1L+Yyer9kzI3sp/pb0CG1j2bhflZGFUZOoIf1YMAPxdns1/9rJ+BHEJCrKdz6LqwkXZuiE42qoA91xJccGbZ7YoTzEOpsL0nEUzkbUZQ+ov+Kf3Uibk2/zYnyptWTY4qcvHefc70zaNWgtlJsHhMcU96Fp50fy/qVrq4mvtWrZZDDjE+K0pUU1Cw6+Q+"
+              }
+            ],
+            "isMain": true
+          }
+        ],
+        "cheapestRoom": {
+          "chargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "344000",
+            "averageRate": "213223",
+            "nightlyRateTotal": "426446",
+            "surchargeTotal": "89554",
+            "total": "516000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "89554"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "344000",
+                "promo": true,
+                "nightRate": "213223"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "344000",
+                "promo": true,
+                "nightRate": "213223"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "convertedChargeableRate": {
+            "currencyCode": "IDR",
+            "averageBaseRate": "344000",
+            "averageRate": "213223",
+            "nightlyRateTotal": "426446",
+            "surchargeTotal": "89554",
+            "total": "516000",
+            "surcharges": [
+              {
+                "type": "TAX",
+                "amount": "89554"
+              },
+              {
+                "type": "FEE",
+                "amount": "0"
+              }
+            ],
+            "nightlyRates": [
+              {
+                "date": "2018-11-22",
+                "baseRate": "344000",
+                "promo": true,
+                "nightRate": "213223"
+              },
+              {
+                "date": "2018-11-23",
+                "baseRate": "344000",
+                "promo": true,
+                "nightRate": "213223"
+              }
+            ],
+            "chargeableRateInfo": null
+          },
+          "numOfRooms": "1"
+        },
+        "rateKey": "IM5BNv155GVE7jdKx1r4n72Om9THbRBskHFQz7GkLg+8a28E7zy/Y5+p+6GqwEq6/XonDuSTLtMlqQ7HMzRkqIz2sZb1ALXTp9MJlkPI9fY5QD4Tt1EYN52S32Dlmqv1J3+zc2ezdMpx2/OJqlYYXd20bP1uuCxfzIUeKlESey4="
+      }
+    ]
+  },
+  "customerSessionId": "8968107827813357506005"
+}
