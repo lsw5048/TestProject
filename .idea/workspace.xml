@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb1cee57-1607-4d55-85d2-13aa6a57d22a" name="Default" comment="" />
+    <list default="true" id="eb1cee57-1607-4d55-85d2-13aa6a57d22a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jd/git/GitVersionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jd/logback/special/SpecialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,23 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="EntertainTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/poi/excel/EntertainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="hotelDetail.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/hotelDetail.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="1217" column="16" lean-forward="true" selection-start-line="1217" selection-start-column="16" selection-end-line="1217" selection-end-column="16" />
+            <state relative-caret-position="6844">
+              <caret line="1217" column="16" selection-start-line="1217" selection-start-column="16" selection-end-line="1217" selection-end-column="16" />
               <folding>
                 <element signature="e#51#1033#0" />
                 <element signature="n#!!block;n#globalAddress#0;n#!!block;n#result#0;n#!!top" />
@@ -51,11 +45,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/springtest/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GitVersionTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/git/GitVersionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="614">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DaoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/dao/DaoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpecialTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/special/SpecialTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogbackTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/LogbackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="7" column="78" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -63,175 +105,17 @@
       <file leaf-file-name="hotelDetail2.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/hotelDetail2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="1050" column="14" lean-forward="true" selection-start-line="1050" selection-start-column="14" selection-end-line="1050" selection-end-column="14" />
+            <state relative-caret-position="1363">
+              <caret line="1050" column="14" selection-start-line="1050" selection-start-column="14" selection-end-line="1050" selection-end-column="14" />
               <folding>
-                <element signature="e#72#644#0" />
-                <element signature="e#668#2562#0" />
+                <element signature="n#!!block;n#propertySummary#0;n#!!block;n#data#0;n#!!top" />
+                <element signature="n#!!block;n#propertyDetail#0;n#!!block;n#data#0;n#!!top" />
                 <element signature="e#2586#45513#0" />
                 <element signature="e#45540#46550#0" />
                 <element signature="e#47448#54458#0" />
                 <element signature="e#54481#55832#0" />
                 <element signature="e#81874#96031#0" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SheetImpl.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12.jar!/jxl/read/biff/SheetImpl.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2668">
-              <caret line="123" selection-start-line="123" selection-end-line="123" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hotelList.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/hotelList.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3393">
-              <caret line="10899" column="30" selection-start-line="10899" selection-start-column="30" selection-end-line="10899" selection-end-column="30" />
-              <folding>
-                <element signature="e#98#4140#0" />
-                <element signature="e#4148#8296#0" />
-                <element signature="e#8304#12450#0" />
-                <element signature="e#12458#16609#0" />
-                <element signature="e#16617#20774#0" />
-                <element signature="e#20782#24983#0" />
-                <element signature="e#24991#29098#0" />
-                <element signature="e#29106#33270#0" />
-                <element signature="e#33278#37436#0" />
-                <element signature="e#37444#41510#0" />
-                <element signature="e#41518#45683#0" />
-                <element signature="e#45691#49809#0" />
-                <element signature="e#49817#54018#0" />
-                <element signature="e#54026#58153#0" />
-                <element signature="e#58161#62318#0" />
-                <element signature="e#62326#66450#0" />
-                <element signature="e#66458#70735#0" />
-                <element signature="e#70743#74943#0" />
-                <element signature="e#74951#79124#0" />
-                <element signature="e#79132#83340#0" />
-                <element signature="e#83348#87416#0" />
-                <element signature="e#87424#91588#0" />
-                <element signature="e#91596#95712#0" />
-                <element signature="e#95720#99803#0" />
-                <element signature="e#99811#103882#0" />
-                <element signature="e#103890#108032#0" />
-                <element signature="e#108040#112196#0" />
-                <element signature="e#112204#116403#0" />
-                <element signature="e#116411#120618#0" />
-                <element signature="e#120626#124690#0" />
-                <element signature="e#124698#128795#0" />
-                <element signature="e#128803#132924#0" />
-                <element signature="e#132932#137011#0" />
-                <element signature="e#137019#141210#0" />
-                <element signature="e#141218#145363#0" />
-                <element signature="e#145371#149552#0" />
-                <element signature="e#149560#153619#0" />
-                <element signature="e#153627#157736#0" />
-                <element signature="e#157744#161827#0" />
-                <element signature="e#161835#165936#0" />
-                <element signature="e#165944#170086#0" />
-                <element signature="e#170094#174288#0" />
-                <element signature="e#174296#178357#0" />
-                <element signature="e#178365#182557#0" />
-                <element signature="e#182565#186728#0" />
-                <element signature="e#186736#190866#0" />
-                <element signature="e#190874#194988#0" />
-                <element signature="e#194996#199143#0" />
-                <element signature="e#199151#203340#0" />
-                <element signature="e#203348#207497#0" />
-                <element signature="e#207505#211645#0" />
-                <element signature="e#211653#215704#0" />
-                <element signature="e#215712#219894#0" />
-                <element signature="e#219902#224036#0" />
-                <element signature="e#224044#228302#0" />
-                <element signature="e#228310#232531#0" />
-                <element signature="e#232539#236709#0" />
-                <element signature="e#236717#240858#0" />
-                <element signature="e#240866#245050#0" />
-                <element signature="e#245058#249277#0" />
-                <element signature="e#249285#253346#0" />
-                <element signature="e#253354#257512#0" />
-                <element signature="e#257520#261631#0" />
-                <element signature="e#261639#265887#0" />
-                <element signature="e#265895#270133#0" />
-                <element signature="e#270141#274248#0" />
-                <element signature="e#274256#278407#0" />
-                <element signature="e#278415#282555#0" />
-                <element signature="e#282563#286745#0" />
-                <element signature="e#286753#290892#0" />
-                <element signature="e#290900#295104#0" />
-                <element signature="e#295112#299269#0" />
-                <element signature="e#299277#303380#0" />
-                <element signature="e#303388#307523#0" />
-                <element signature="e#307531#311581#0" />
-                <element signature="e#311589#315649#0" />
-                <element signature="e#315657#319618#0" />
-                <element signature="e#319626#323791#0" />
-                <element signature="e#323799#327949#0" />
-                <element signature="e#327957#332118#0" />
-                <element signature="e#332126#336271#0" />
-                <element signature="e#336279#340414#0" />
-                <element signature="e#340422#344546#0" />
-                <element signature="e#344554#348715#0" />
-                <element signature="e#348723#352895#0" />
-                <element signature="e#352903#357148#0" />
-                <element signature="e#357156#361337#0" />
-                <element signature="e#361345#365517#0" />
-                <element signature="e#365525#369687#0" />
-                <element signature="e#369695#373917#0" />
-                <element signature="e#373925#378080#0" />
-                <element signature="e#378088#382235#0" />
-                <element signature="e#382243#386404#0" />
-                <element signature="e#390513#394753#0" />
-                <element signature="e#394761#398888#0" />
-                <element signature="e#398896#403099#0" />
-                <element signature="e#403107#407232#0" />
-                <element signature="e#407240#411430#0" />
-                <element signature="e#408047#409247#0" />
-                <element signature="e#408059#409237#0" />
-                <element signature="e#409814#409979#0" />
-                <element signature="e#409995#410160#0" />
-                <element signature="e#411438#415632#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="starOne.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/starOne.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="starThree.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/starThree.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-              <folding>
-                <element signature="e#4313#8489#0" />
-                <element signature="e#8497#12629#0" />
-                <element signature="e#12637#16766#0" />
-                <element signature="e#16774#20936#0" />
-                <element signature="e#20944#25093#0" />
-                <element signature="e#25101#29275#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalTotalProfit.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/poi/excel/CalTotalProfit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -265,6 +149,9 @@
       <replace>/logback/logs</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -286,7 +173,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jd/poi/excel/ExcelTest.java" />
         <option value="$PROJECT_DIR$/src/main/profiles/development/important.properties" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/jd/logback/LogbackTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jd/logback/dao/DaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jd/poi/excel/CalTotalProfit.java" />
@@ -298,6 +184,9 @@
         <option value="$PROJECT_DIR$/src/main/resources/hotelDetail.json" />
         <option value="$PROJECT_DIR$/src/main/resources/hotelDetailFromTvlk.json" />
         <option value="$PROJECT_DIR$/src/main/resources/hotelDetail2.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jd/git/GitVersionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/jd/logback/special/SpecialTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
       </list>
     </option>
   </component>
@@ -356,12 +245,15 @@
     <option name="width" value="1938" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -369,6 +261,16 @@
             <path>
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="log_dir_IS_UNDEFINED" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="logger.path_IS_UNDEFINED" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
@@ -421,6 +323,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
               <item name="inner" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -441,6 +352,16 @@
               <item name="jd" type="462c0819:PsiDirectoryNode" />
               <item name="logback" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="logback" type="462c0819:PsiDirectoryNode" />
+              <item name="special" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestProject" type="b2602c69:ProjectViewProjectNode" />
@@ -486,7 +407,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -519,7 +440,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EntertainTest">
+  <component name="RunManager" selected="Application.SpecialTest">
     <configuration name="CalTotalProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jd.poi.excel.CalTotalProfit" />
       <module name="TestProject" />
@@ -527,17 +448,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jd.poi.excel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="DaoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jd.logback.dao.DaoTest" />
-      <module name="TestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jd.logback.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -560,6 +470,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jd.logback.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SpecialTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jd.logback.special.SpecialTest" />
+      <module name="TestProject" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd.logback.special.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -630,18 +551,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.LogbackTest" />
-      <item itemvalue="Application.DaoTest" />
       <item itemvalue="JUnit.EntertainTest.calNeedPay" />
       <item itemvalue="Application.EntertainTest" />
       <item itemvalue="Application.CalTotalProfit" />
+      <item itemvalue="Application.SpecialTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpecialTest" />
         <item itemvalue="Application.EntertainTest" />
         <item itemvalue="Application.CalTotalProfit" />
         <item itemvalue="JUnit.EntertainTest.calNeedPay" />
         <item itemvalue="Application.LogbackTest" />
-        <item itemvalue="Application.DaoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -675,6 +596,8 @@
       <workItem from="1542630144561" duration="595000" />
       <workItem from="1542683885004" duration="43215000" />
       <workItem from="1543559436037" duration="3050000" />
+      <workItem from="1543569855312" duration="1740000" />
+      <workItem from="1543893617149" duration="2289000" />
     </task>
     <servers />
   </component>
@@ -711,40 +634,40 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="128866000" />
+    <option name="totallyTimeSpent" value="132895000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32821077" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.28239742" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40556198" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.14086147" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19208382" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32930845" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3282887" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30723542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31803456" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32491767" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.32491767" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32821077" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -817,27 +740,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/installPath/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36337">
-          <caret line="1313" column="49" lean-forward="true" selection-start-line="1313" selection-start-column="49" selection-end-line="1313" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/installPath/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5104">
-          <caret line="217" column="50" lean-forward="true" selection-start-line="217" selection-start-column="50" selection-end-line="217" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/installPath/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/SynchronousQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23461">
-          <caret line="861" column="57" lean-forward="true" selection-start-line="861" selection-start-column="57" selection-end-line="861" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/sort/StringSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -1042,27 +944,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/dao/DaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/LogbackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1421">
-          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/net/sourceforge/jexcelapi/jxl/2.6.12/jxl-2.6.12.jar!/jxl/write/WritableWorkbook.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -1074,9 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="22" column="61" selection-start-line="18" selection-start-column="8" selection-end-line="22" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1112,111 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3393">
           <caret line="10899" column="30" selection-start-line="10899" selection-start-column="30" selection-end-line="10899" selection-end-column="30" />
-          <folding>
-            <element signature="e#98#4140#0" />
-            <element signature="e#4148#8296#0" />
-            <element signature="e#8304#12450#0" />
-            <element signature="e#12458#16609#0" />
-            <element signature="e#16617#20774#0" />
-            <element signature="e#20782#24983#0" />
-            <element signature="e#24991#29098#0" />
-            <element signature="e#29106#33270#0" />
-            <element signature="e#33278#37436#0" />
-            <element signature="e#37444#41510#0" />
-            <element signature="e#41518#45683#0" />
-            <element signature="e#45691#49809#0" />
-            <element signature="e#49817#54018#0" />
-            <element signature="e#54026#58153#0" />
-            <element signature="e#58161#62318#0" />
-            <element signature="e#62326#66450#0" />
-            <element signature="e#66458#70735#0" />
-            <element signature="e#70743#74943#0" />
-            <element signature="e#74951#79124#0" />
-            <element signature="e#79132#83340#0" />
-            <element signature="e#83348#87416#0" />
-            <element signature="e#87424#91588#0" />
-            <element signature="e#91596#95712#0" />
-            <element signature="e#95720#99803#0" />
-            <element signature="e#99811#103882#0" />
-            <element signature="e#103890#108032#0" />
-            <element signature="e#108040#112196#0" />
-            <element signature="e#112204#116403#0" />
-            <element signature="e#116411#120618#0" />
-            <element signature="e#120626#124690#0" />
-            <element signature="e#124698#128795#0" />
-            <element signature="e#128803#132924#0" />
-            <element signature="e#132932#137011#0" />
-            <element signature="e#137019#141210#0" />
-            <element signature="e#141218#145363#0" />
-            <element signature="e#145371#149552#0" />
-            <element signature="e#149560#153619#0" />
-            <element signature="e#153627#157736#0" />
-            <element signature="e#157744#161827#0" />
-            <element signature="e#161835#165936#0" />
-            <element signature="e#165944#170086#0" />
-            <element signature="e#170094#174288#0" />
-            <element signature="e#174296#178357#0" />
-            <element signature="e#178365#182557#0" />
-            <element signature="e#182565#186728#0" />
-            <element signature="e#186736#190866#0" />
-            <element signature="e#190874#194988#0" />
-            <element signature="e#194996#199143#0" />
-            <element signature="e#199151#203340#0" />
-            <element signature="e#203348#207497#0" />
-            <element signature="e#207505#211645#0" />
-            <element signature="e#211653#215704#0" />
-            <element signature="e#215712#219894#0" />
-            <element signature="e#219902#224036#0" />
-            <element signature="e#224044#228302#0" />
-            <element signature="e#228310#232531#0" />
-            <element signature="e#232539#236709#0" />
-            <element signature="e#236717#240858#0" />
-            <element signature="e#240866#245050#0" />
-            <element signature="e#245058#249277#0" />
-            <element signature="e#249285#253346#0" />
-            <element signature="e#253354#257512#0" />
-            <element signature="e#257520#261631#0" />
-            <element signature="e#261639#265887#0" />
-            <element signature="e#265895#270133#0" />
-            <element signature="e#270141#274248#0" />
-            <element signature="e#274256#278407#0" />
-            <element signature="e#278415#282555#0" />
-            <element signature="e#282563#286745#0" />
-            <element signature="e#286753#290892#0" />
-            <element signature="e#290900#295104#0" />
-            <element signature="e#295112#299269#0" />
-            <element signature="e#299277#303380#0" />
-            <element signature="e#303388#307523#0" />
-            <element signature="e#307531#311581#0" />
-            <element signature="e#311589#315649#0" />
-            <element signature="e#315657#319618#0" />
-            <element signature="e#319626#323791#0" />
-            <element signature="e#323799#327949#0" />
-            <element signature="e#327957#332118#0" />
-            <element signature="e#332126#336271#0" />
-            <element signature="e#336279#340414#0" />
-            <element signature="e#340422#344546#0" />
-            <element signature="e#344554#348715#0" />
-            <element signature="e#348723#352895#0" />
-            <element signature="e#352903#357148#0" />
-            <element signature="e#357156#361337#0" />
-            <element signature="e#361345#365517#0" />
-            <element signature="e#365525#369687#0" />
-            <element signature="e#369695#373917#0" />
-            <element signature="e#373925#378080#0" />
-            <element signature="e#378088#382235#0" />
-            <element signature="e#382243#386404#0" />
-            <element signature="e#390513#394753#0" />
-            <element signature="e#394761#398888#0" />
-            <element signature="e#398896#403099#0" />
-            <element signature="e#403107#407232#0" />
-            <element signature="e#407240#411430#0" />
-            <element signature="e#408047#409247#0" />
-            <element signature="e#408059#409237#0" />
-            <element signature="e#409814#409979#0" />
-            <element signature="e#409995#410160#0" />
-            <element signature="e#411438#415632#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,7 +1024,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/poi/excel/EntertainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
+        <state relative-caret-position="1247">
           <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1259,20 +1032,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hotelDetailFromTvlk.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="68854" selection-end-line="1" selection-end-column="68915" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hotelDetailFromTvlk.json" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/hotelDetail2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="1050" column="14" lean-forward="true" selection-start-line="1050" selection-start-column="14" selection-end-line="1050" selection-end-column="14" />
+        <state relative-caret-position="1363">
+          <caret line="1050" column="14" selection-start-line="1050" selection-start-column="14" selection-end-line="1050" selection-end-column="14" />
           <folding>
-            <element signature="e#72#644#0" />
-            <element signature="e#668#2562#0" />
+            <element signature="n#!!block;n#propertySummary#0;n#!!block;n#data#0;n#!!top" />
+            <element signature="n#!!block;n#propertyDetail#0;n#!!block;n#data#0;n#!!top" />
             <element signature="e#2586#45513#0" />
             <element signature="e#45540#46550#0" />
             <element signature="e#47448#54458#0" />
@@ -1284,8 +1051,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/hotelDetail.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="1217" column="16" lean-forward="true" selection-start-line="1217" selection-start-column="16" selection-end-line="1217" selection-end-column="16" />
+        <state relative-caret-position="6844">
+          <caret line="1217" column="16" selection-start-line="1217" selection-start-column="16" selection-end-line="1217" selection-end-column="16" />
           <folding>
             <element signature="e#51#1033#0" />
             <element signature="n#!!block;n#globalAddress#0;n#!!block;n#result#0;n#!!top" />
@@ -1307,7 +1074,48 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/springtest/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/git/GitVersionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/LogbackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/dao/DaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/jd/logback/special/SpecialTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_dir_IS_UNDEFINED/user_detail.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
