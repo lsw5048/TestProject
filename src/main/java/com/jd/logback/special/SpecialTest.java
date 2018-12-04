@@ -9,8 +9,9 @@ import org.slf4j.LoggerFactory;
  */
 public class SpecialTest {
     private static Logger logger = LoggerFactory.getLogger(SpecialTest.class);
+    private static Logger logger2 = LoggerFactory.getLogger("designatedFile");
     public static void main(String[] args) {
-        logger.debug("{单独输入到一个文件}");
+        logger2.info("{logger2单独输入到一个指定文件}");
         logger.info("info日志");
     }
 }

@@ -41,9 +41,9 @@
         </encoder>
     </appender>
 
-    <appender name="special-debug" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <appender name="designatedFile" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <filter class="ch.qos.logback.classic.filter.LevelFilter">
-            <level>DEBUG</level>
+            <level>INFO</level>
             <onMatch>ACCEPT</onMatch>
             <onMismatch>DENY</onMismatch>
         </filter>
@@ -65,8 +65,8 @@
     <logger name="com.jd.flight.aop" level="trace" additivity="false">
         <appender-ref ref="RPC-ALL"/>
     </logger>
-    <logger name="com.jd.logback.special" level="debug" additivity="false">
-        <appender-ref ref="special-debug"/>
+    <logger name="designatedFile" level="info" additivity="false">
+        <appender-ref ref="designatedFile"/>
     </logger>
 
     <root level="INFO">
