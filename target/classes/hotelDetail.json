@@ -1,0 +1,1794 @@
+{
+  "code": 200,
+  "result": {
+    "amenityInfos": [
+      {
+        "id": 1233,
+        "name": "Antar-jemput bandara berbiaya"
+      },
+      {
+        "id": 1189,
+        "name": "Barbecue"
+      },
+      {
+        "id": 1111,
+        "name": "Concierge/layanan tamu"
+      },
+      {
+        "id": 1112,
+        "name": "Laundry"
+      },
+      {
+        "id": 1028,
+        "name": "WiFi gratis"
+      },
+      {
+        "id": 1239,
+        "name": "Transportasi di area hotel"
+      },
+      {
+        "id": 1050,
+        "name": "Sarapan"
+      },
+      {
+        "id": 1003,
+        "name": "Area parkir"
+      },
+      {
+        "id": 1110,
+        "name": "Resepsionis"
+      },
+      {
+        "id": 1183,
+        "name": "Taman"
+      },
+      {
+        "id": 1196,
+        "name": "Perpustakaan"
+      },
+      {
+        "id": 1115,
+        "name": "Penitipan bagasi"
+      },
+      {
+        "id": 1182,
+        "name": "Kolam renang outdoor"
+      },
+      {
+        "id": 1004,
+        "name": "Brankas"
+      }
+    ],
+    "checkInInstrunction": "Biaya penambahan orang dalam kamar mungkin berlaku dan berbeda-beda menurut kebijakan hotel. <br />Sewaktu check-in diperlukan tanda pengenal dengan foto yang resmi dikeluarkan oleh pemerintah dan kartu kredit atau deposit tunai untuk menutup biaya tak terduga. <br />Pemenuhan permintaan khusus bergantung pada ketersediaan sewaktu check-in dan mungkin menimbulkan biaya tambahan. Permintaan khusus tidak dijamin akan terpenuhi. <br /> <p>Biaya dan deposit berikut mungkin ditagihkan oleh properti saat memberikan layanan, check-in, atau check-out. </p> <ul> <li>Biaya antar jemput bandara: IDR 175000 per kendaraan (satu arah)</li> </ul> <p>Daftar di atas mungkin tidak lengkap. Biaya dan deposit mungkin belum mencakup pajak dan dapat berubah tanpa pemberitahuan sebelumnya. </p>",
+    "checkinTime": "14:00",
+    "checkoutTime": "12:00",
+    "globalAddress": {
+      "city": "Denpasar",
+      "countryCode": "ID",
+      "lines": [
+        "Jl. Bumi Ayu No. 19",
+        "Sanur"
+      ]
+    },
+    "hotelId": "1000000547971",
+    "hotelName": "Nike Villas",
+    "hotelPolicy": "You must present a photo ID when checking in. Your credit card is charged at the time you book. Bed type and smoking preferences are not guaranteed.Your reservation is prepaid and is guaranteed for late arrival. The total charge includes all room charges and taxes, as well as fees for access and booking. Any incidental charges such as parking, phone calls, and room service will be handled directly between you and the property.<br />Biaya penambahan orang dalam kamar mungkin berlaku dan berbeda-beda menurut kebijakan hotel. <br />Sewaktu check-in diperlukan tanda pengenal dengan foto yang resmi dikeluarkan oleh pemerintah dan kartu kredit atau deposit tunai untuk menutup biaya tak terduga. <br />Pemenuhan permintaan khusus bergantung pada ketersediaan sewaktu check-in dan mungkin menimbulkan biaya tambahan. Permintaan khusus tidak dijamin akan terpenuhi. <br />",
+    "hotelType": 303,
+    "imageInfos": [
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvB6sGXF/I0trJQYfMZvMlmYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtzoM0BvQ1HkuGX9n39IsOag1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtzoM0BvQ1HkuGX9n39IsOasHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": true
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBideXZ4qv9zllZE/ClXJjG0zl8Pgb2Gmp22C8Q1FEdQd79A9J0JwxPQug8J+f1iBgPUg=="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBideXZ4qv9zllZE/ClXJjG0znhMToX1vtYdmLDtbktGj0KAjtpm0klOhRjlJeHgn1Uhw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBideXZ4qv9zllZE/ClXJjG0zkn6DPxC2HH99xJaA10mwaCv2mXYWkna82GeQrtYTVQ8a5ozDBuB5a73gTEmSLLX5I="
+          }
+        ],
+        "main": true
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvJA/6Nk7ZkP/9o+nTwz+8/Yim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvtz9srXbnc1iKMlip0fWATg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvtz9srXbnc1iKMlip0fWATsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTspRCqMqop4wgACpHBnYj50Yim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvTjMZoQ86/jjJg9xHiqaDbg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvTjMZoQ86/jjJg9xHiqaDbsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvOYPkX99P5wSBjff+YINpDYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsBvVxrSkXKGn9aD9unDdZOg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsBvVxrSkXKGn9aD9unDdZOsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvxwbmUvRotNrKJ796yiLExYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtzrRVAennYBgxDR+9/viy+g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtzrRVAennYBgxDR+9/viy+sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuR/Ymxg7WOZJO8CABUqI9jYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsqXIzL2wUlyZ6ozlObirtJg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsqXIzL2wUlyZ6ozlObirtJsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTusBD/1n2k7T4HAe1Hne1dxYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsor4938yvglemIesANtEtwg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsor4938yvglemIesANtEtwsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuoLNIfdbiuNB36Z3SOTlr4Yim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTt642TMdeT4G9EnU0NRpl+jg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTt642TMdeT4G9EnU0NRpl+jsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtbrZ4IMsEKSB/4o+V+iBHzYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTt9E8socYoShZahk7xuBRXtg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTt9E8socYoShZahk7xuBRXtsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtZWbWxr3cDpaWMOx1wYv/BYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTttdxbMtfgWXsPS2JIr2QTjg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTttdxbMtfgWXsPS2JIr2QTjsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvYLLX+jnuCrGhWrz+pRISIYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvAO7pAR6IjOreroNbR14rqg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvAO7pAR6IjOreroNbR14rqsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsJk8gMa+kPYvBTq10Sys8eYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtFi0NU2o021dQArcKARILcg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtFi0NU2o021dQArcKARILcsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTt6+PO7ESRakHYON5fPzcNIYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvj0ds0gKxpxZWG69zWG3Z/g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvj0ds0gKxpxZWG69zWG3Z/sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuYXkPtHzdyg3kQmoWN68HDYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvtlmZ3d21qgTifpj38JQY2g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvtlmZ3d21qgTifpj38JQY2sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsO2RHIQltw/1zr8UXRrdXKYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTs05J2TLYbdMTzK0kH5/oBtg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTs05J2TLYbdMTzK0kH5/oBtsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsBdSYOlcQ4cC5lW9JeDr5rYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTs/fCw6M3dfXmaOfG+QMJoxg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTs/fCw6M3dfXmaOfG+QMJoxsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTurH3ZIqmmraneBdi0KBQ8FYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtp5lAKpCzyu9GeoB+USZaig1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtp5lAKpCzyu9GeoB+USZaisHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtc3eUp04Q5CdhGqq8EpCBbYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTskz1bwqadMwIva5nB0n9vjg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTskz1bwqadMwIva5nB0n9vjsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTucnzqxXRwxFSLgGtMq+3qYYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvy2o44nXH6nrvgBZIL/Sk/g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvy2o44nXH6nrvgBZIL/Sk/sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuWDilCRiD+urIPSalJH8jAYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsd3ZVc1ISH+QmGenDKcKdLg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsd3ZVc1ISH+QmGenDKcKdLsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTseNIJoZ8nP2+fiNMb8N4wfYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuuqkkQqFwJCuOMBMlrRN4Qg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuuqkkQqFwJCuOMBMlrRN4QsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvowKm1621f0GtRRxbMhyqCYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTun6B1Vl8zYgLfRsWNxh4Bog1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTun6B1Vl8zYgLfRsWNxh4BosHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtf4AfgIuyIRhwyI55eApD5Yim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvN+nLtP+wnrpk4hg3YAMQxg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvN+nLtP+wnrpk4hg3YAMQxsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuwSiyTq6q0oIKd7yR3j3yuYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtM5ZIyxktk37kUtT3wvuN4g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtM5ZIyxktk37kUtT3wvuN4sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsbu+qqcoW/81leZrm9tNWmYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvc703DwDIUSQYDQYe5l8pTg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvc703DwDIUSQYDQYe5l8pTsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTv6iqUNigu0ugyq8PNSejBzYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsGgG4RC4CDoQsphY0TMMMqg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsGgG4RC4CDoQsphY0TMMMqsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtRefD2Ie2JdEZv84eFVLmIYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtVNMLbIYvHcC7LWa2/qoh9g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtVNMLbIYvHcC7LWa2/qoh9sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuT5CKw0yXhSiDLzEYa744ZYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvvtrdv6nyj+Esd7C26tXD7g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvvtrdv6nyj+Esd7C26tXD7sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtk27SIFoBraMqAbG/IdDNrYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvBA6cfChg6fRaBGaiIm9yMg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvBA6cfChg6fRaBGaiIm9yMsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTskmZR1U9ZcfBAbNtBjAu+UYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsWA5vSgW94IC72FBuaKRAYg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsWA5vSgW94IC72FBuaKRAYsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsmY8wUv5sCE/Hr98s3RoFUYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvz5vPMcmYQBdVXPF+m/f/Tg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvz5vPMcmYQBdVXPF+m/f/TsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtOUJ1HyC4Ja46HGzh7YU+cYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsSey+rffMwRAQUGAg+Zj6xg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTsSey+rffMwRAQUGAg+Zj6xsHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvAtBZFEQ+XkzcwMOoldXRcYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuIalBxnONPwco8eY/amSmeg1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuIalBxnONPwco8eY/amSmesHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvu2ugd4lkF6N0fxUe1mp22Yim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTu0Eqx3pPsI1Q3WkFfufUBag1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTu0Eqx3pPsI1Q3WkFfufUBasHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTt9prxt2iXhrEQx4ma9yTmVYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTs9iRg28WSWC/H/HCVWV074g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTs9iRg28WSWC/H/HCVWV074sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtJKV6vlNhoWjuBt9u2FMecYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtgrQmF/qGmcv6SRTMGIAr8g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTtgrQmF/qGmcv6SRTMGIAr8sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTvbAU70Xqq8yhiMN2ZCzvQmYim1MVmmLXKczGfmFGw9rq5ozDBuB5a73gTEmSLLX5I="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuVrh3d/KS1zlVOuYGHlC46g1Ld657K1yF8L0/Y3sj2iw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/KSWvI9WUvHl6MingC1Zg3PXPG26+x+ZZrMs7c7Mjcjf01dOaa4YW4INBVr3l3UKKD1FN/6xRBcrnq07wHUp+FOtPUR4BDnhftN8BcDN9BTuVrh3d/KS1zlVOuYGHlC46sHfdytvkIcP6n7UMlYeHQngMXKvAwZCgC6VY4NegP74="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidbjD+Vla9EAoJmw8vLREPs18Pgb2Gmp22C8Q1FEdQd79A9J0JwxPQug8J+f1iBgPUg=="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidbjD+Vla9EAoJmw8vLREPs3hMToX1vtYdmLDtbktGj0KAjtpm0klOhRjlJeHgn1Uhw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidbjD+Vla9EAoJmw8vLREPs0n6DPxC2HH99xJaA10mwaCv2mXYWkna82GeQrtYTVQ8a5ozDBuB5a73gTEmSLLX5I="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidVUI1ucpHcIoSwAX8nQlHil8Pgb2Gmp22C8Q1FEdQd79A9J0JwxPQug8J+f1iBgPUg=="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidVUI1ucpHcIoSwAX8nQlHinhMToX1vtYdmLDtbktGj0KAjtpm0klOhRjlJeHgn1Uhw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidVUI1ucpHcIoSwAX8nQlHikn6DPxC2HH99xJaA10mwaCv2mXYWkna82GeQrtYTVQ8a5ozDBuB5a73gTEmSLLX5I="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidXGExg+2Jxec5FR8MFQKcfd8Pgb2Gmp22C8Q1FEdQd79A9J0JwxPQug8J+f1iBgPUg=="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidXGExg+2Jxec5FR8MFQKcffhMToX1vtYdmLDtbktGj0KAjtpm0klOhRjlJeHgn1Uhw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidXGExg+2Jxec5FR8MFQKcfcn6DPxC2HH99xJaA10mwaCv2mXYWkna82GeQrtYTVQ8a5ozDBuB5a73gTEmSLLX5I="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBiddr2GWpG1bfi4oPJh9D6u4N8Pgb2Gmp22C8Q1FEdQd79A9J0JwxPQug8J+f1iBgPUg=="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBiddr2GWpG1bfi4oPJh9D6u4PhMToX1vtYdmLDtbktGj0KAjtpm0klOhRjlJeHgn1Uhw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBiddr2GWpG1bfi4oPJh9D6u4Mn6DPxC2HH99xJaA10mwaCv2mXYWkna82GeQrtYTVQ8a5ozDBuB5a73gTEmSLLX5I="
+          }
+        ],
+        "main": false
+      },
+      {
+        "entries": [
+          {
+            "imageType": "SMALL",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidVYB0EeQ1MgbmWITMgVYft18Pgb2Gmp22C8Q1FEdQd79A9J0JwxPQug8J+f1iBgPUg=="
+          },
+          {
+            "imageType": "MEDIUM",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidVYB0EeQ1MgbmWITMgVYft3hMToX1vtYdmLDtbktGj0KAjtpm0klOhRjlJeHgn1Uhw=="
+          },
+          {
+            "imageType": "LARGE",
+            "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/PIVDqgytUBJ2muJWFtKzD2nugHmmupiiVWZNeqSxpUgDIwNqafUj5noDxaDY0f+taFrgCAXMOnJcNzxVBiBidVYB0EeQ1MgbmWITMgVYft0n6DPxC2HH99xJaA10mwaCv2mXYWkna82GeQrtYTVQ8a5ozDBuB5a73gTEmSLLX5I="
+          }
+        ],
+        "main": false
+      }
+    ],
+    "latitude": -8.69055,
+    "localAddress": {
+      "city": "Denpasar",
+      "countryCode": "ID",
+      "lines": [
+        "Jl. Bumi Ayu No. 19",
+        "Sanur"
+      ]
+    },
+    "longitude": 115.26205,
+    "roomInfos": [
+      {
+        "amenities": [
+          {
+            "id": 252,
+            "name": "IRONING_BOARD_ON_REQUEST"
+          },
+          {
+            "id": 229,
+            "name": "DESK"
+          },
+          {
+            "id": 249,
+            "name": "FREE_WIFI"
+          },
+          {
+            "id": 209,
+            "name": "SHOWER"
+          },
+          {
+            "id": 223,
+            "name": "FAN"
+          },
+          {
+            "id": 256,
+            "name": "PRIVATE_BATHROOM"
+          },
+          {
+            "id": 202,
+            "name": "TELEVISION"
+          },
+          {
+            "id": 238,
+            "name": "BALCONY_TERRACE"
+          },
+          {
+            "id": 241,
+            "name": "HOUSEKEEPING"
+          },
+          {
+            "id": 263,
+            "name": "STOVETOP"
+          },
+          {
+            "id": 206,
+            "name": "REFRIGERATOR"
+          },
+          {
+            "id": 216,
+            "name": "MICROWAVE"
+          },
+          {
+            "id": 221,
+            "name": "KITCHEN"
+          },
+          {
+            "id": 232,
+            "name": "ROOM_SERVICE"
+          },
+          {
+            "id": 201,
+            "name": "AIR_CONDITIONING"
+          },
+          {
+            "id": 213,
+            "name": "TOILETRIES"
+          }
+        ],
+        "bedType": "1 king",
+        "description": "<p><strong>1 king</strong></p><p>Kamar berukuran 50 meter persegi, menawarkan balkon atau teras yang menampilkan pemandangan kolam renang</p><br /><p><b>Layout</b> - ruang tamu terpisah</p><b>Internet</b> - WiFi Gratis <br /> <p><b>Hiburan</b> - Televisi layar datar dengan channel premium</p><p><b>Makan Minum</b> - Dapur mini dengan kulkas, kompor, microwave, dan peralatan masak/makan</p><p><b>Kamar Mandi</b> - Kamar mandi pribadi, perlengkapan mandi gratis, dan kombinasi shower/bathtub</p><p><b>Kemudahan</b> - Meja tulis dan Setrika dan meja setrika (atas permintaan); tempat tidur lipat/tambahan dan boks bayi gratis tersedia berdasarkan permintaan</p><p><b>Kenyamanan</b> - AC dan layanan pembenahan kamar harian</p><p>Merokok/Dilarang Merokok</p>&nbsp;",
+        "imageDetails": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRcQ66yzm1LIpOFclhRRkW7+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRcQ66yzm1LIpOFclhRRkW61f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRcQ66yzm1LIpOFclhRRkW7BqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLdgLrUQIfIARdXaXtIOuvZP+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLdgLrUQIfIARdXaXtIOuvZO1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLdgLrUQIfIARdXaXtIOuvZPBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLQ/OFg4fbf/7GA/WWDWK5rj+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLQ/OFg4fbf/7GA/WWDWK5ri1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLQ/OFg4fbf/7GA/WWDWK5rjBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZzTOxGWxN2+1ueq9XM9m3n+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZzTOxGWxN2+1ueq9XM9m3m1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZzTOxGWxN2+1ueq9XM9m3nBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLeChx2+6oOXSl3I7k4MLbB7+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLeChx2+6oOXSl3I7k4MLbB61f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLeChx2+6oOXSl3I7k4MLbB7BqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLXv+PthoQAO1tig37PAdlF3+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLXv+PthoQAO1tig37PAdlF21f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLXv+PthoQAO1tig37PAdlF3BqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZrCC0fsmV18PSWNISykq8z+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZrCC0fsmV18PSWNISykq8y1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZrCC0fsmV18PSWNISykq8zBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          }
+        ],
+        "includedBreakfast": true,
+        "includedWifi": true,
+        "maxOccupancy": 2,
+        "quotedOccupancy": 2,
+        "rateInfos": [
+          {
+            "cancelPolicies": [],
+            "cancellationPolicyDisplay": "Pemesanan ini non-refundable.",
+            "chargeableRate": {
+              "averageBaseRate": 127.54,
+              "averageRate": 87.36,
+              "currencyCode": "USD",
+              "nightlyRateTotal": 174.72,
+              "nightlyRates": [
+                {
+                  "basePrice": 127.54,
+                  "date": 1543593600000,
+                  "nightPrice": 87.36,
+                  "promo": true
+                },
+                {
+                  "basePrice": 127.54,
+                  "date": 1543680000000,
+                  "nightPrice": 87.36,
+                  "promo": true
+                }
+              ],
+              "surchargeTotal": 36.69,
+              "surcharges": [
+                {
+                  "amount": 0.0,
+                  "name": "TAX"
+                },
+                {
+                  "amount": 36.69,
+                  "name": "FEE"
+                }
+              ],
+              "total": 211.41
+            },
+            "currentAllotment": 2,
+            "numOfAdults": 2,
+            "promo": [
+              {
+                "promDescription": "Penawaran terbatas: hemat 20%",
+                "promName": "SALE"
+              }
+            ],
+            "rateId": "IoCHGpzAsITJfiD0cwLGD3+iVJj1p9vv1IwlCEPMPkFBdljiZDQ7rGUjxaOXWlgXLNMqzTvct/VdgEU2PIBJcUVxXcrqOBarbsleGFVhedPJ7RWw0NmHSNJ7Kb11YkxuOFfui/7gog1OIzVpHMa+bnyZKsCMZUxzTXLcyblw3SrNNyC7cOLW+6xkDqAWYiLppfvuRMn0ApWyzub0WuheciwBLxUVjXVkof28aTDBSs7H/7ZR0u0wlDxZER+jzfLC9BvBSsyMYs23mdt1V570VA==",
+            "refundType": 1
+          }
+        ],
+        "roomId": "11427304",
+        "roomName": "Suite, 1 Kamar Tidur"
+      },
+      {
+        "amenities": [
+          {
+            "id": 252,
+            "name": "IRONING_BOARD_ON_REQUEST"
+          },
+          {
+            "id": 229,
+            "name": "DESK"
+          },
+          {
+            "id": 249,
+            "name": "FREE_WIFI"
+          },
+          {
+            "id": 209,
+            "name": "SHOWER"
+          },
+          {
+            "id": 223,
+            "name": "FAN"
+          },
+          {
+            "id": 256,
+            "name": "PRIVATE_BATHROOM"
+          },
+          {
+            "id": 202,
+            "name": "TELEVISION"
+          },
+          {
+            "id": 238,
+            "name": "BALCONY_TERRACE"
+          },
+          {
+            "id": 241,
+            "name": "HOUSEKEEPING"
+          },
+          {
+            "id": 263,
+            "name": "STOVETOP"
+          },
+          {
+            "id": 206,
+            "name": "REFRIGERATOR"
+          },
+          {
+            "id": 216,
+            "name": "MICROWAVE"
+          },
+          {
+            "id": 221,
+            "name": "KITCHEN"
+          },
+          {
+            "id": 232,
+            "name": "ROOM_SERVICE"
+          },
+          {
+            "id": 201,
+            "name": "AIR_CONDITIONING"
+          },
+          {
+            "id": 213,
+            "name": "TOILETRIES"
+          }
+        ],
+        "bedType": "1 king dan 2 single",
+        "description": "<p><strong>1 king dan 2 twin</strong></p><p>Kamar berukuran 105 meter persegi, menawarkan balkon atau teras</p><br /><p><b>Layout</b> - ruang tamu terpisah</p><b>Internet</b> - WiFi Gratis <br /> <p><b>Hiburan</b> - Televisi layar datar dengan channel premium</p><p><b>Makan Minum</b> - Dapur mini dengan kulkas, kompor, microwave, dan peralatan masak/makan</p><p><b>Kamar Mandi</b> - Kamar mandi pribadi, kombinasi shower/bathtub, sandal, dan perlengkapan mandi gratis</p><p><b>Kemudahan</b> - Telepon, Meja tulis, dan Setrika dan meja setrika (atas permintaan)</p><p><b>Kenyamanan</b> - AC dan layanan pembenahan kamar harian</p><p><b>Perlu Diketahui</b> - boks bayi atau tempat tidur ekstra tidak diperbolehkan</p><p>Merokok/Dilarang Merokok</p>&nbsp;",
+        "imageDetails": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLYAe9TMxKRZGRdz+JzpXxbD+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLYAe9TMxKRZGRdz+JzpXxbC1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLYAe9TMxKRZGRdz+JzpXxbDBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLS46KDXSkelnDe0h7bO/fuj+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLS46KDXSkelnDe0h7bO/fui1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLS46KDXSkelnDe0h7bO/fujBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVMiJagBl81pVzqc4l89rV7+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVMiJagBl81pVzqc4l89rV61f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVMiJagBl81pVzqc4l89rV7BqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLTTu9H/WFKMvkbznKMpdrJT+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLTTu9H/WFKMvkbznKMpdrJS1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLTTu9H/WFKMvkbznKMpdrJTBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLTPay+stY+fIGpL6NA5OwnH+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLTPay+stY+fIGpL6NA5OwnG1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLTPay+stY+fIGpL6NA5OwnHBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLaCHKHVyumjHxPq1wOofoPj+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLaCHKHVyumjHxPq1wOofoPi1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLaCHKHVyumjHxPq1wOofoPjBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLT7qqbrcJ3guLsiEo/tx+Mv+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLT7qqbrcJ3guLsiEo/tx+Mu1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLT7qqbrcJ3guLsiEo/tx+MvBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVQor4q39JW32Zq1w2BdXFX+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVQor4q39JW32Zq1w2BdXFW1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVQor4q39JW32Zq1w2BdXFXBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLV5GQZStU1W+Bi9DHNE3OKf+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLV5GQZStU1W+Bi9DHNE3OKe1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLV5GQZStU1W+Bi9DHNE3OKfBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          }
+        ],
+        "includedBreakfast": true,
+        "includedWifi": true,
+        "maxOccupancy": 4,
+        "quotedOccupancy": 4,
+        "rateInfos": [
+          {
+            "cancelPolicies": [],
+            "cancellationPolicyDisplay": "Pemesanan ini non-refundable.",
+            "chargeableRate": {
+              "averageBaseRate": 223.21,
+              "averageRate": 152.88,
+              "currencyCode": "USD",
+              "nightlyRateTotal": 305.76,
+              "nightlyRates": [
+                {
+                  "basePrice": 223.21,
+                  "date": 1543593600000,
+                  "nightPrice": 152.88,
+                  "promo": true
+                },
+                {
+                  "basePrice": 223.21,
+                  "date": 1543680000000,
+                  "nightPrice": 152.88,
+                  "promo": true
+                }
+              ],
+              "surchargeTotal": 64.21,
+              "surcharges": [
+                {
+                  "amount": 0.0,
+                  "name": "TAX"
+                },
+                {
+                  "amount": 64.21,
+                  "name": "FEE"
+                }
+              ],
+              "total": 369.97
+            },
+            "currentAllotment": 1,
+            "numOfAdults": 4,
+            "promo": [
+              {
+                "promDescription": "Penawaran terbatas: hemat 20%",
+                "promName": "SALE"
+              }
+            ],
+            "rateId": "IoCHGpzAsITJfiD0cwLGD4Y+liHAIn5k28KQj3mHCe1BdljiZDQ7rGUjxaOXWlgXLNMqzTvct/VdgEU2PIBJcTdq0msYIsPeq0QH4zIV08jJ7RWw0NmHSNJ7Kb11YkxuOFfui/7gog1OIzVpHMa+bsYRXaOKs+uRt+3feS2auSrtX4ATLCz7dlvSx3n7ICFE53A2dWcBj9Jd0rohib00WcbtgvR0yF2ZUDch5vDzzi3H/7ZR0u0wlDxZER+jzfLC9BvBSsyMYs23mdt1V570VA==",
+            "refundType": 1
+          }
+        ],
+        "roomId": "11427301",
+        "roomName": "Vila Keluarga"
+      },
+      {
+        "amenities": [
+          {
+            "id": 252,
+            "name": "IRONING_BOARD_ON_REQUEST"
+          },
+          {
+            "id": 229,
+            "name": "DESK"
+          },
+          {
+            "id": 249,
+            "name": "FREE_WIFI"
+          },
+          {
+            "id": 209,
+            "name": "SHOWER"
+          },
+          {
+            "id": 223,
+            "name": "FAN"
+          },
+          {
+            "id": 256,
+            "name": "PRIVATE_BATHROOM"
+          },
+          {
+            "id": 202,
+            "name": "TELEVISION"
+          },
+          {
+            "id": 238,
+            "name": "BALCONY_TERRACE"
+          },
+          {
+            "id": 241,
+            "name": "HOUSEKEEPING"
+          },
+          {
+            "id": 263,
+            "name": "STOVETOP"
+          },
+          {
+            "id": 206,
+            "name": "REFRIGERATOR"
+          },
+          {
+            "id": 216,
+            "name": "MICROWAVE"
+          },
+          {
+            "id": 221,
+            "name": "KITCHEN"
+          },
+          {
+            "id": 232,
+            "name": "ROOM_SERVICE"
+          },
+          {
+            "id": 201,
+            "name": "AIR_CONDITIONING"
+          },
+          {
+            "id": 213,
+            "name": "TOILETRIES"
+          }
+        ],
+        "bedType": "1 king",
+        "description": "<p><strong>1 king</strong></p><p>Kamar berukuran 200 meter persegi, menawarkan balkon atau teras yang menampilkan pemandangan kolam renang</p><br /><p><b>Layout</b> - kamar tidur dan ruang tamu</p> <p><b>Bersantai</b> - Kolam renang pribadi</p><b>Internet</b> - WiFi Gratis <br /> <p><b>Hiburan</b> - Televisi layar datar dengan channel premium</p><p><b>Makan Minum</b> - Dapur mini dengan kulkas, kompor, microwave, dan peralatan masak/makan</p><p><b>Kamar Mandi</b> - Kamar mandi pribadi, perlengkapan mandi gratis, dan kombinasi shower/bathtub</p><p><b>Kemudahan</b> - Meja tulis dan Setrika dan meja setrika (atas permintaan); tempat tidur lipat/tambahan dan boks bayi gratis tersedia berdasarkan permintaan</p><p><b>Kenyamanan</b> - AC dan layanan pembenahan kamar harian</p><p>Merokok/Dilarang Merokok</p>&nbsp;",
+        "imageDetails": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVfPOzE7TXU0202eK/qLH2j+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVfPOzE7TXU0202eK/qLH2i1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLVfPOzE7TXU0202eK/qLH2jBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRB+p2tk4JQRBXBHfruJDlb+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRB+p2tk4JQRBXBHfruJDla1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRB+p2tk4JQRBXBHfruJDlbBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLcXVx6yVJ/8Gj+YVykyEZfD+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLcXVx6yVJ/8Gj+YVykyEZfC1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLcXVx6yVJ/8Gj+YVykyEZfDBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZ6Dq9dkPma64pMCr0newr/+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZ6Dq9dkPma64pMCr0newr+1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZ6Dq9dkPma64pMCr0newr/BqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          }
+        ],
+        "includedBreakfast": true,
+        "includedWifi": true,
+        "maxOccupancy": 2,
+        "quotedOccupancy": 2,
+        "rateInfos": [
+          {
+            "cancelPolicies": [],
+            "cancellationPolicyDisplay": "Pemesanan ini non-refundable.",
+            "chargeableRate": {
+              "averageBaseRate": 223.21,
+              "averageRate": 152.88,
+              "currencyCode": "USD",
+              "nightlyRateTotal": 305.76,
+              "nightlyRates": [
+                {
+                  "basePrice": 223.21,
+                  "date": 1543593600000,
+                  "nightPrice": 152.88,
+                  "promo": true
+                },
+                {
+                  "basePrice": 223.21,
+                  "date": 1543680000000,
+                  "nightPrice": 152.88,
+                  "promo": true
+                }
+              ],
+              "surchargeTotal": 64.21,
+              "surcharges": [
+                {
+                  "amount": 0.0,
+                  "name": "TAX"
+                },
+                {
+                  "amount": 64.21,
+                  "name": "FEE"
+                }
+              ],
+              "total": 369.97
+            },
+            "currentAllotment": 1,
+            "numOfAdults": 2,
+            "promo": [
+              {
+                "promDescription": "Penawaran terbatas: hemat 20%",
+                "promName": "SALE"
+              }
+            ],
+            "rateId": "IoCHGpzAsITJfiD0cwLGD+itvxvm00KlqviWWo6lQA9BdljiZDQ7rGUjxaOXWlgXLNMqzTvct/VdgEU2PIBJcUVxXcrqOBarbsleGFVhedPJ7RWw0NmHSNJ7Kb11YkxuOFfui/7gog1OIzVpHMa+boEe8Q6H/5+Qj14cnib7ZfWM7f3Bl7gVvZrZms8msZjXAnxsAlv7ZuE5qUxZEvfKp8H6u5oND1SfASaZYo28jT3H/7ZR0u0wlDxZER+jzfLC9BvBSsyMYs23mdt1V570VA==",
+            "refundType": 1
+          }
+        ],
+        "roomId": "11427303",
+        "roomName": "Vila, 1 Kamar Tidur"
+      },
+      {
+        "amenities": [
+          {
+            "id": 252,
+            "name": "IRONING_BOARD_ON_REQUEST"
+          },
+          {
+            "id": 229,
+            "name": "DESK"
+          },
+          {
+            "id": 249,
+            "name": "FREE_WIFI"
+          },
+          {
+            "id": 209,
+            "name": "SHOWER"
+          },
+          {
+            "id": 223,
+            "name": "FAN"
+          },
+          {
+            "id": 256,
+            "name": "PRIVATE_BATHROOM"
+          },
+          {
+            "id": 202,
+            "name": "TELEVISION"
+          },
+          {
+            "id": 238,
+            "name": "BALCONY_TERRACE"
+          },
+          {
+            "id": 241,
+            "name": "HOUSEKEEPING"
+          },
+          {
+            "id": 263,
+            "name": "STOVETOP"
+          },
+          {
+            "id": 206,
+            "name": "REFRIGERATOR"
+          },
+          {
+            "id": 216,
+            "name": "MICROWAVE"
+          },
+          {
+            "id": 221,
+            "name": "KITCHEN"
+          },
+          {
+            "id": 232,
+            "name": "ROOM_SERVICE"
+          },
+          {
+            "id": 201,
+            "name": "AIR_CONDITIONING"
+          },
+          {
+            "id": 213,
+            "name": "TOILETRIES"
+          }
+        ],
+        "bedType": "1 king dan 2 single",
+        "description": "<p><strong>1 king dan 2 twin</strong></p><p>Kamar berukuran 280 meter persegi, menawarkan balkon atau teras yang menampilkan pemandangan kolam renang</p><br /><p><b>Layout</b> - 2 kamar tidur dan ruang tamu</p> <p><b>Bersantai</b> - Kolam renang pribadi</p><b>Internet</b> - WiFi Gratis <br /> <p><b>Hiburan</b> - Televisi layar datar dengan channel premium</p><p><b>Makan Minum</b> - Dapur mini dengan kulkas, kompor, microwave, dan peralatan masak/makan</p><p><b>Kamar Mandi</b> - Kamar mandi pribadi, perlengkapan mandi gratis, dan kombinasi shower/bathtub</p><p><b>Kemudahan</b> - Meja tulis dan Setrika dan meja setrika (atas permintaan); tempat tidur lipat/tambahan dan boks bayi gratis tersedia berdasarkan permintaan</p><p><b>Kenyamanan</b> - AC dan layanan pembenahan kamar harian</p><p>Merokok/Dilarang Merokok</p>&nbsp;",
+        "imageDetails": [
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRhdwOqjt7cd39K7Iorl5nD+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRhdwOqjt7cd39K7Iorl5nC1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLRhdwOqjt7cd39K7Iorl5nDBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLQ/oI+tsT6RaIficb5bOJGT+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLQ/oI+tsT6RaIficb5bOJGS1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLQ/oI+tsT6RaIficb5bOJGTBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLbXRW9MBv7ErK8nJqAnf0Ab+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLbXRW9MBv7ErK8nJqAnf0Aa1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLbXRW9MBv7ErK8nJqAnf0AbBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLS1AhoDTUE7gwt42WKzb63D+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLS1AhoDTUE7gwt42WKzb63C1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLS1AhoDTUE7gwt42WKzb63DBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZNnCd/80u98j3l5B5RlS9n+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZNnCd/80u98j3l5B5RlS9m1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLZNnCd/80u98j3l5B5RlS9nBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLXQQltanRwOIwQY8WwKyk+L+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLXQQltanRwOIwQY8WwKyk+K1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLXQQltanRwOIwQY8WwKyk+LBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLeoKVKnvcosvkLCetvnlwRT+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLeoKVKnvcosvkLCetvnlwRS1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLeoKVKnvcosvkLCetvnlwRTBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLc0e32ijMbjMLSuFmyzQL8v+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLc0e32ijMbjMLSuFmyzQL8u1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLc0e32ijMbjMLSuFmyzQL8vBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          },
+          {
+            "entries": [
+              {
+                "imageType": "SMALL",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLSnkSb+VXktEW7I36t1r1lj+Mt0rxFps2xumFeWPPuRldfJ1UOnMLV5e/7Gj6mqlFA=="
+              },
+              {
+                "imageType": "MEDIUM",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLSnkSb+VXktEW7I36t1r1li1f1JQh4N5i1mVX+OibEfZkmKk9aXX0Y0qPxz2ixNUtw=="
+              },
+              {
+                "imageType": "LARGE",
+                "url": "https://productasset-shared-stg.test.tvlk.cloud/v2/hotel-asset/TzEv3ZUmG4/4Dz22hvmO9Fpk5Z+U7PwXyiqdzNkLR7YLGsUDU+zMve2kLhRUHwqY3PwretKVJO3SRRzUdUWFLSnkSb+VXktEW7I36t1r1ljBqjW3PmHPc6sWRa7Hv9A49/Hje2OpVZEpNg/PSsLwtQ=="
+              }
+            ]
+          }
+        ],
+        "includedBreakfast": true,
+        "includedWifi": true,
+        "maxOccupancy": 4,
+        "quotedOccupancy": 4,
+        "rateInfos": [
+          {
+            "cancelPolicies": [],
+            "cancellationPolicyDisplay": "Pemesanan ini non-refundable.",
+            "chargeableRate": {
+              "averageBaseRate": 286.98,
+              "averageRate": 196.56,
+              "currencyCode": "USD",
+              "nightlyRateTotal": 393.12,
+              "nightlyRates": [
+                {
+                  "basePrice": 286.98,
+                  "date": 1543593600000,
+                  "nightPrice": 196.56,
+                  "promo": true
+                },
+                {
+                  "basePrice": 286.98,
+                  "date": 1543680000000,
+                  "nightPrice": 196.56,
+                  "promo": true
+                }
+              ],
+              "surchargeTotal": 82.55,
+              "surcharges": [
+                {
+                  "amount": 0.0,
+                  "name": "TAX"
+                },
+                {
+                  "amount": 82.55,
+                  "name": "FEE"
+                }
+              ],
+              "total": 475.68
+            },
+            "currentAllotment": 2,
+            "numOfAdults": 4,
+            "promo": [
+              {
+                "promDescription": "Penawaran terbatas: hemat 20%",
+                "promName": "SALE"
+              }
+            ],
+            "rateId": "IoCHGpzAsITJfiD0cwLGD8IcqOsc0yd0d5xQ/3gYgpZBdljiZDQ7rGUjxaOXWlgXLNMqzTvct/VdgEU2PIBJcTdq0msYIsPeq0QH4zIV08jJ7RWw0NmHSNJ7Kb11YkxuOFfui/7gog1OIzVpHMa+bhZ1xQlf4iWSTMifzTPWYfeKAZnzTnyxGyHjYvAZ9ssuOR/LKEuW7S9qCF3K2UtA+EqmS//8oQfvTMaXgi3RbXrH/7ZR0u0wlDxZER+jzfLC9BvBSsyMYs23mdt1V570VA==",
+            "refundType": 1
+          }
+        ],
+        "roomId": "11427302",
+        "roomName": "Vila, 2 Kamar Tidur"
+      }
+    ],
+    "starRating": 3.0,
+    "supplierType": 1
+  },
+  "success": true
+}

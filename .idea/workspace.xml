@@ -436,7 +436,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpecialTest">
+  <component name="RunManager" selected="JUnit.InsertSorting.directInsertSorting">
     <configuration name="CalTotalProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.jd.poi.excel.CalTotalProfit" />
       <module name="TestProject" />
@@ -455,17 +455,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jd.poi.excel.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LogbackTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jd.logback.LogbackTest" />
-      <module name="TestProject" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jd.logback.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -497,6 +486,29 @@
       <option name="PACKAGE_NAME" value="com.jd.poi.excel" />
       <option name="MAIN_CLASS_NAME" value="com.jd.poi.excel.EntertainTest" />
       <option name="METHOD_NAME" value="calNeedPay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="InsertSorting.directInsertSorting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd.algorithm.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.jd.algorithm.sort" />
+      <option name="MAIN_CLASS_NAME" value="com.jd.algorithm.sort.InsertSorting" />
+      <option name="METHOD_NAME" value="directInsertSorting" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -546,19 +558,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LogbackTest" />
       <item itemvalue="JUnit.EntertainTest.calNeedPay" />
       <item itemvalue="Application.EntertainTest" />
       <item itemvalue="Application.CalTotalProfit" />
       <item itemvalue="Application.SpecialTest" />
+      <item itemvalue="JUnit.InsertSorting.directInsertSorting" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.InsertSorting.directInsertSorting" />
         <item itemvalue="Application.SpecialTest" />
         <item itemvalue="Application.EntertainTest" />
         <item itemvalue="Application.CalTotalProfit" />
         <item itemvalue="JUnit.EntertainTest.calNeedPay" />
-        <item itemvalue="Application.LogbackTest" />
       </list>
     </recent_temporary>
   </component>
