@@ -1,5 +1,6 @@
 package com.jd.queue;
 
+import java.util.List;
 import java.util.Random;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.TimeUnit;
@@ -7,21 +8,29 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 public class Producer implements Runnable {
 
-    public Producer(BlockingQueue queue) {
+    private List<Integer> dataList;
+
+    public Producer(BlockingQueue queue, List<Integer> dataList) {
         this.queue = queue;
+        this.dataList = dataList;
     }
 
+    @Override
     public void run() {
-        String data = null;
+        Integer data = 0;
         Random r = new Random();
 
         System.out.println("启动生产者线程！");
         try {
             while (isRunning) {
                 System.out.println("正在生产数据...");
-                Thread.sleep(r.nextInt(DEFAULT_RANGE_FOR_SLEEP));
 
-                data = "data:" + count.incrementAndGet();
+                if(count.get()==dataList.size()){
+                    isRunning = false;
+                    System.out.println("生产者线程停止生产");
+                    break;
+                }
+                data = dataList.get(count.getAndIncrement());
                 System.out.println("将数据：" + data + "放入队列...");
                 if (!queue.offer(data, 2, TimeUnit.SECONDS)) {
                     System.out.println("放入数据失败：" + data);
